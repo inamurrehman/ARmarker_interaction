@@ -1,1 +1,1 @@
-# Augmented Reality marker-based interaction 
+# Augmented Reality marker-based interaction with virtual assembly environment
